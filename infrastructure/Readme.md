@@ -82,6 +82,7 @@ Each chain has 10 ports it can use.  WIP.
  Anone           | 2280-2289  | anone-testnet-1
  Konstellation   | 2290-2299  | darchub
  Omniflix        | 2300-2309  | omniflixhub-1
+ GravityBridge   | 2310-2319  | gravity-bridge-3
 
    Service         | Port  
 -------------------|------ 
@@ -127,3 +128,4 @@ cheqd        | debcb3fa7d40e681d98bcc7d22278fd58a34b73a@144.76.183.180:1234,258a
 Axelar       | 3d67d0646cddcc203b41434aceea64ade22ba6fc@k8s-mainnet-axelarco-79b464ee93-f03cb16c57cf7cb2.elb.us-east-2.amazonaws.com:26656
 Comdex       | 08ab4552a74dd7e211fc79432918d35818a67189@52.69.58.231:26656,449a0f1b7dafc142cf23a1f6166bbbf035edfb10@13.232.85.66:26656,5b27a6d4cf33909c0e5b217789e7455e261941d1@15.222.29.207:26656 
 Omniflix     | 9d75a06ebd3732a041df459849c21b87b2c55cde@35.187.240.195:26656,19feae28207474eb9f168fff9720fd4d418df1ed@35.240.196.102:26656,78cea79586e383e70e41e3c2f145d2d99a7c0861@88.198.62.198:2300
+GravityBridge| 2b089bfb4c7366efb402b48376a7209632380c9c@65.19.136.133:26656,63e662f5e048d4902c7c7126291cf1fc17687e3c@95.211.103.175:26656
